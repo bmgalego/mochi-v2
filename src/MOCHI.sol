@@ -1,5 +1,14 @@
-// SPDX-License-Identifier: UNLICENSED
+// SPDX-License-Identifier: MIT
 pragma solidity ^0.8.13;
+
+/**
+ * __  __  _____  ___  _   _  ____ 
+ * (  \/  )(  _  )/ __)( )_( )(_  _)
+ *  )    (  )(_)(( (__  ) _ (  _)(_ 
+ * (_/\/\_)(_____)\___)(_) (_)(____)
+ *                                     
+ *  https://t.me/mochientry
+ */
 
 import {ERC20} from "solmate/tokens/ERC20.sol";
 
